@@ -1,1 +1,2 @@
-document.querySelector("h1").innerHTML="Hii Anup";
+document.querySelector("h1").classList.add("huge");
+document.querySelector("button").style.backgroundColor="yellow";
